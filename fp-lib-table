@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Castellated_SMT_Pin_Headers") (type "KiCad") (uri "${KIPRJMOD}/Castellated_SMT_Pin_Headers.pretty") (options "") (descr ""))
+)
